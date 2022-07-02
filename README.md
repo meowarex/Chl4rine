@@ -21,4 +21,4 @@ Repository Contains 2 Versions:
 
 [!] Chl4rine.exe = Version With Windows Defnder Bypass
 
-Feel Free To Embed This Malware Executable In Any Project Yous Want (Feel Feee To Skid)
+For A Skiddable Version Of This Malware Please Use SysRipper (github.com/A-T-O-M-I-X/SysRipper)
