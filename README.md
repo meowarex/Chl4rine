@@ -1,5 +1,16 @@
-# Chl4rine
-Educational Wiper + Visual Trojan (WIP)
+
+
+	░█████╗░██╗░░██╗██╗░░░░░░░██╗██╗██████╗░██╗███╗░░██╗███████╗
+	██╔══██╗██║░░██║██║░░░░░░██╔╝██║██╔══██╗██║████╗░██║██╔════╝
+	██║░░╚═╝███████║██║░░░░░██╔╝░██║██████╔╝██║██╔██╗██║█████╗░░
+	██║░░██╗██╔══██║██║░░░░░███████║██╔══██╗██║██║╚████║██╔══╝░░
+	╚█████╔╝██║░░██║███████╗╚════██║██║░░██║██║██║░╚███║███████╗
+	░╚════╝░╚═╝░░╚═╝╚══════╝░░░░░╚═╝╚═╝░░╚═╝╚═╝╚═╝░░╚══╝╚══════╝
+
+	█░█░█ █ █▀█ █▀▀ █▀█   ▄█▄   █▀▀ █▀▄ █   █▀ █░█ ▄▀█ █▀▄ █▀▀ █▀█
+	▀▄▀▄▀ █ █▀▀ ██▄ █▀▄   ░▀░   █▄█ █▄▀ █   ▄█ █▀█ █▀█ █▄▀ ██▄ █▀▄
+
+
 An Educational GSI shader Malware which destroys MBR and Prevents installation of ANY OS and protects against user attempts to rebuild MBR
 !!!ONLY RUN IN A VM (VirtualMachine) THIS WILL DESTROY YOUR PC IF YOU DONT!!!
 
